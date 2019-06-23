@@ -4,3 +4,4 @@ printer
 paper
 pencil
 pen
+scanner
