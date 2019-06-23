@@ -6,3 +6,4 @@ pencil
 pen
 scanner
 tape
+cup
